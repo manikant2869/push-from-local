@@ -1,0 +1,2 @@
+int addtwo();
+int addthree();
